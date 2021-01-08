@@ -1,0 +1,16 @@
+{
+    "rules": [
+        {
+            "rulePriority": ${priority},
+            "description": "${description}",
+            "selection": {
+                "tagStatus": "${tag_status}",
+                "countType": "${count_type}",
+                "countNumber": ${count_number}
+            },
+            "action": {
+                "type": "${action_type}"
+            }
+        }
+    ]
+}

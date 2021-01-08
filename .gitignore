@@ -1,0 +1,9 @@
+### TERRAFORM ###
+terraform/.terraform
+terraform/terraform.tfstate.d
+deployment/terraform/.terraform
+deployment/terraform/terraform.tfstate.d
+/.localstack/data/recorded_api_calls.json
+
+### PYTHON ###
+venv
